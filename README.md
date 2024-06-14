@@ -3438,3 +3438,5 @@
 <!-- special-github-resume-updated: layout styling (2024-06-13T10:39:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-06-13T10:01:00) -->
+
+<!-- special-github-resume-updated: technical skills (2024-06-14T14:29:00) -->
