@@ -3440,3 +3440,5 @@
 <!-- special-github-resume-updated: contact info (2024-06-13T10:01:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-06-14T14:29:00) -->
+
+<!-- special-github-resume-updated: social links (2024-06-14T10:30:00) -->
