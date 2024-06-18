@@ -3454,3 +3454,5 @@
 <!-- special-github-resume-updated: contact info (2024-06-18T19:42:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-06-18T19:11:00) -->
+
+<!-- special-github-resume-updated: social links (2024-06-18T16:11:00) -->
