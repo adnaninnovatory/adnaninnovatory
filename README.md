@@ -3494,3 +3494,5 @@
 <!-- special-github-resume-updated: bio details (2024-06-30T14:03:00) -->
 
 <!-- special-github-resume-updated: project showcase (2024-06-30T13:35:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-07-01T13:19:00) -->
