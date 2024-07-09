@@ -3512,3 +3512,5 @@
 <!-- special-github-resume-updated: technical skills (2024-07-08T12:53:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-07-08T17:08:00) -->
+
+<!-- special-github-resume-updated: project showcase (2024-07-09T13:06:00) -->
