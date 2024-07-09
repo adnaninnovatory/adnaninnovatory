@@ -3514,3 +3514,5 @@
 <!-- special-github-resume-updated: layout styling (2024-07-08T17:08:00) -->
 
 <!-- special-github-resume-updated: project showcase (2024-07-09T13:06:00) -->
+
+<!-- special-github-resume-updated: social links (2024-07-09T16:02:00) -->
