@@ -3628,3 +3628,5 @@
 <!-- special-github-resume-updated: contact info (2024-08-15T16:51:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-08-17T09:28:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-08-17T15:17:00) -->
