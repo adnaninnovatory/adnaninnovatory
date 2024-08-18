@@ -3632,3 +3632,5 @@
 <!-- special-github-resume-updated: certificates section (2024-08-17T15:17:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-08-17T12:14:00) -->
+
+<!-- special-github-resume-updated: project showcase (2024-08-18T11:43:00) -->
