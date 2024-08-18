@@ -3634,3 +3634,5 @@
 <!-- special-github-resume-updated: contact info (2024-08-17T12:14:00) -->
 
 <!-- special-github-resume-updated: project showcase (2024-08-18T11:43:00) -->
+
+<!-- special-github-resume-updated: technical skills (2024-08-18T13:13:00) -->
