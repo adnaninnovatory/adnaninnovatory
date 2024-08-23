@@ -3652,3 +3652,5 @@
 <!-- special-github-resume-updated: social links (2024-08-23T19:27:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-08-23T17:57:00) -->
+
+<!-- special-github-resume-updated: social links (2024-08-23T16:41:00) -->
