@@ -3658,3 +3658,5 @@
 <!-- special-github-resume-updated: layout styling (2024-08-24T13:27:00) -->
 
 <!-- special-github-resume-updated: social links (2024-08-24T16:15:00) -->
+
+<!-- special-github-resume-updated: contact info (2024-08-25T11:13:00) -->
