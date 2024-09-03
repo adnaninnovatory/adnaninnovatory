@@ -3682,3 +3682,5 @@
 <!-- special-github-resume-updated: layout styling (2024-09-01T16:36:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-09-02T20:18:00) -->
+
+<!-- special-github-resume-updated: contact info (2024-09-03T10:32:00) -->
