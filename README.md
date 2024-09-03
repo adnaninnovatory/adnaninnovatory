@@ -3684,3 +3684,5 @@
 <!-- special-github-resume-updated: layout styling (2024-09-02T20:18:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-09-03T10:32:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-09-03T09:54:00) -->
