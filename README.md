@@ -3742,3 +3742,5 @@
 <!-- special-github-resume-updated: layout styling (2024-09-22T15:10:00) -->
 
 <!-- special-github-resume-updated: bio details (2024-09-23T09:14:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-09-23T13:50:00) -->
