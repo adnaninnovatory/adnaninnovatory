@@ -3812,3 +3812,5 @@
 <!-- special-github-resume-updated: project showcase (2024-10-14T09:24:00) -->
 
 <!-- special-github-resume-updated: social links (2024-10-16T18:16:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-10-16T19:33:00) -->
