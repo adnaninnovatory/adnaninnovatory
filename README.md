@@ -3836,3 +3836,5 @@
 <!-- special-github-resume-updated: layout styling (2024-10-23T18:46:00) -->
 
 <!-- special-github-resume-updated: bio details (2024-10-23T15:34:00) -->
+
+<!-- special-github-resume-updated: technical skills (2024-10-24T15:43:00) -->
