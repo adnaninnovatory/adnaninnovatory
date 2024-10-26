@@ -3842,3 +3842,5 @@
 <!-- special-github-resume-updated: contact info (2024-10-24T14:36:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-10-24T16:54:00) -->
+
+<!-- special-github-resume-updated: project showcase (2024-10-26T09:26:00) -->
