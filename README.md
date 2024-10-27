@@ -3844,3 +3844,5 @@
 <!-- special-github-resume-updated: layout styling (2024-10-24T16:54:00) -->
 
 <!-- special-github-resume-updated: project showcase (2024-10-26T09:26:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-10-27T15:48:00) -->
