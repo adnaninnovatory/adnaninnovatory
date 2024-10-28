@@ -3852,3 +3852,5 @@
 <!-- special-github-resume-updated: layout styling (2024-10-27T14:32:00) -->
 
 <!-- special-github-resume-updated: bio details (2024-10-28T18:38:00) -->
+
+<!-- special-github-resume-updated: social links (2024-10-28T14:27:00) -->
