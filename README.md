@@ -3894,3 +3894,5 @@
 <!-- special-github-resume-updated: social links (2024-11-10T18:27:00) -->
 
 <!-- special-github-resume-updated: social links (2024-11-10T16:35:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-11-11T14:20:00) -->
