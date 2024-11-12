@@ -3900,3 +3900,5 @@
 <!-- special-github-resume-updated: layout styling (2024-11-11T20:42:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-11-12T15:57:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-11-12T10:35:00) -->
