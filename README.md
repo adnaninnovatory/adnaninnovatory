@@ -3922,3 +3922,5 @@
 <!-- special-github-resume-updated: contact info (2024-11-17T17:24:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-11-17T10:28:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-11-18T14:21:00) -->
