@@ -3938,3 +3938,5 @@
 <!-- special-github-resume-updated: contact info (2024-11-21T18:41:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-11-22T16:02:00) -->
+
+<!-- special-github-resume-updated: project showcase (2024-11-22T14:12:00) -->
