@@ -3980,3 +3980,5 @@
 <!-- special-github-resume-updated: project showcase (2024-12-03T20:51:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-12-05T20:47:00) -->
+
+<!-- special-github-resume-updated: technical skills (2024-12-05T20:51:00) -->
