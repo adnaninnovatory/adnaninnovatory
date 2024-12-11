@@ -4004,3 +4004,5 @@
 <!-- special-github-resume-updated: contact info (2024-12-11T10:01:00) -->
 
 <!-- special-github-resume-updated: project showcase (2024-12-11T15:28:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-12-11T16:13:00) -->
