@@ -4012,3 +4012,5 @@
 <!-- special-github-resume-updated: layout styling (2024-12-12T10:25:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-12-13T11:36:00) -->
+
+<!-- special-github-resume-updated: social links (2024-12-15T19:56:00) -->
