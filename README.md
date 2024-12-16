@@ -4018,3 +4018,5 @@
 <!-- special-github-resume-updated: certificates section (2024-12-15T14:08:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-12-15T18:20:00) -->
+
+<!-- special-github-resume-updated: contact info (2024-12-16T18:41:00) -->
