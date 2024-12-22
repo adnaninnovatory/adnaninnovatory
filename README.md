@@ -4034,3 +4034,5 @@
 <!-- special-github-resume-updated: certificates section (2024-12-21T09:05:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-12-21T19:05:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-12-22T20:47:00) -->
