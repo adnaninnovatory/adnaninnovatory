@@ -4050,3 +4050,5 @@
 <!-- special-github-resume-updated: project showcase (2024-12-25T19:26:00) -->
 
 <!-- special-github-resume-updated: social links (2024-12-26T20:24:00) -->
+
+<!-- special-github-resume-updated: technical skills (2024-12-26T11:10:00) -->
