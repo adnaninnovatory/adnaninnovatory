@@ -4070,3 +4070,5 @@
 <!-- special-github-resume-updated: technical skills (2024-12-31T10:42:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-12-31T18:51:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-01-01T14:22:00) -->
