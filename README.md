@@ -4082,3 +4082,5 @@
 <!-- special-github-resume-updated: social links (2025-01-04T19:31:00) -->
 
 <!-- special-github-resume-updated: social links (2025-01-04T14:20:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-01-05T20:38:00) -->
