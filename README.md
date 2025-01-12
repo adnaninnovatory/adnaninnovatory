@@ -4106,3 +4106,5 @@
 <!-- special-github-resume-updated: bio details (2025-01-11T10:30:00) -->
 
 <!-- special-github-resume-updated: project showcase (2025-01-12T18:04:00) -->
+
+<!-- special-github-resume-updated: technical skills (2025-01-12T10:36:00) -->
