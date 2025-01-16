@@ -4116,3 +4116,5 @@
 <!-- special-github-resume-updated: project showcase (2025-01-15T15:50:00) -->
 
 <!-- special-github-resume-updated: bio details (2025-01-15T17:23:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-01-16T11:26:00) -->
