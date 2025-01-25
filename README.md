@@ -4150,3 +4150,5 @@
 <!-- special-github-resume-updated: certificates section (2025-01-24T12:07:00) -->
 
 <!-- special-github-resume-updated: layout styling (2025-01-25T11:58:00) -->
+
+<!-- special-github-resume-updated: project showcase (2025-01-25T15:58:00) -->
