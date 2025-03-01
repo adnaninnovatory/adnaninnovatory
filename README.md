@@ -4258,3 +4258,5 @@
 <!-- special-github-resume-updated: project showcase (2025-02-26T17:35:00) -->
 
 <!-- special-github-resume-updated: layout styling (2025-02-28T09:50:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-03-01T10:04:00) -->
