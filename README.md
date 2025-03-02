@@ -4262,3 +4262,5 @@
 <!-- special-github-resume-updated: contact info (2025-03-01T10:04:00) -->
 
 <!-- special-github-resume-updated: bio details (2025-03-01T09:49:00) -->
+
+<!-- special-github-resume-updated: technical skills (2025-03-02T11:18:00) -->
