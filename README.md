@@ -4276,3 +4276,5 @@
 <!-- special-github-resume-updated: certificates section (2025-03-06T13:33:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-03-06T10:56:00) -->
+
+<!-- special-github-resume-updated: bio details (2025-03-07T11:47:00) -->
