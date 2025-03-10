@@ -4284,3 +4284,5 @@
 <!-- special-github-resume-updated: certificates section (2025-03-08T13:07:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-03-10T17:18:00) -->
+
+<!-- special-github-resume-updated: social links (2025-03-10T18:01:00) -->
