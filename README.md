@@ -4320,3 +4320,5 @@
 <!-- special-github-resume-updated: technical skills (2025-03-21T13:36:00) -->
 
 <!-- special-github-resume-updated: contact info (2025-03-22T18:27:00) -->
+
+<!-- special-github-resume-updated: social links (2025-03-22T20:34:00) -->
