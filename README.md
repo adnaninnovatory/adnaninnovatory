@@ -4322,3 +4322,5 @@
 <!-- special-github-resume-updated: contact info (2025-03-22T18:27:00) -->
 
 <!-- special-github-resume-updated: social links (2025-03-22T20:34:00) -->
+
+<!-- special-github-resume-updated: project showcase (2025-03-22T15:11:00) -->
