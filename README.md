@@ -4328,3 +4328,5 @@
 <!-- special-github-resume-updated: certificates section (2025-03-23T17:36:00) -->
 
 <!-- special-github-resume-updated: contact info (2025-03-25T18:24:00) -->
+
+<!-- special-github-resume-updated: bio details (2025-03-25T10:12:00) -->
