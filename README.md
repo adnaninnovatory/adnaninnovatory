@@ -4332,3 +4332,5 @@
 <!-- special-github-resume-updated: bio details (2025-03-25T10:12:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-03-25T14:15:00) -->
+
+<!-- special-github-resume-updated: technical skills (2025-03-26T20:22:00) -->
