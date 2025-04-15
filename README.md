@@ -4400,3 +4400,5 @@
 <!-- special-github-resume-updated: layout styling (2025-04-14T17:51:00) -->
 
 <!-- special-github-resume-updated: project showcase (2025-04-15T11:48:00) -->
+
+<!-- special-github-resume-updated: social links (2025-04-15T18:09:00) -->
