@@ -4408,3 +4408,5 @@
 <!-- special-github-resume-updated: layout styling (2025-04-16T17:53:00) -->
 
 <!-- special-github-resume-updated: technical skills (2025-04-16T14:22:00) -->
+
+<!-- special-github-resume-updated: project showcase (2025-04-17T13:31:00) -->
