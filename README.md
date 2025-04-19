@@ -4414,3 +4414,5 @@
 <!-- special-github-resume-updated: layout styling (2025-04-17T12:54:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-04-17T20:34:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-04-19T16:51:00) -->
