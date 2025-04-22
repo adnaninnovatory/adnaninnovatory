@@ -4428,3 +4428,5 @@
 <!-- special-github-resume-updated: contact info (2025-04-21T12:03:00) -->
 
 <!-- special-github-resume-updated: layout styling (2025-04-21T14:15:00) -->
+
+<!-- special-github-resume-updated: bio details (2025-04-22T13:18:00) -->
