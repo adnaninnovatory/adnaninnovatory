@@ -4432,3 +4432,5 @@
 <!-- special-github-resume-updated: bio details (2025-04-22T13:18:00) -->
 
 <!-- special-github-resume-updated: project showcase (2025-04-22T14:10:00) -->
+
+<!-- special-github-resume-updated: technical skills (2025-04-24T20:28:00) -->
