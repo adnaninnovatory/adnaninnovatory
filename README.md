@@ -4444,3 +4444,5 @@
 <!-- special-github-resume-updated: certificates section (2025-04-26T15:06:00) -->
 
 <!-- special-github-resume-updated: technical skills (2025-04-26T13:23:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-04-27T15:23:00) -->
