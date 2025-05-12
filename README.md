@@ -4484,3 +4484,5 @@
 <!-- special-github-resume-updated: technical skills (2025-05-10T13:48:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-05-11T15:38:00) -->
+
+<!-- special-github-resume-updated: social links (2025-05-12T14:42:00) -->
