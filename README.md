@@ -4494,3 +4494,5 @@
 <!-- special-github-resume-updated: certificates section (2025-05-14T13:30:00) -->
 
 <!-- special-github-resume-updated: bio details (2025-05-14T19:11:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-05-15T18:19:00) -->
