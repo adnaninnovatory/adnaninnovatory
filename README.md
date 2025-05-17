@@ -4500,3 +4500,5 @@
 <!-- special-github-resume-updated: social links (2025-05-15T12:57:00) -->
 
 <!-- special-github-resume-updated: social links (2025-05-16T16:52:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-05-17T14:25:00) -->
