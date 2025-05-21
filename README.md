@@ -4512,3 +4512,5 @@
 <!-- special-github-resume-updated: social links (2025-05-20T14:13:00) -->
 
 <!-- special-github-resume-updated: layout styling (2025-05-21T09:02:00) -->
+
+<!-- special-github-resume-updated: technical skills (2025-05-21T20:36:00) -->
