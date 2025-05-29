@@ -4534,3 +4534,5 @@
 <!-- special-github-resume-updated: certificates section (2025-05-27T17:39:00) -->
 
 <!-- special-github-resume-updated: project showcase (2025-05-27T17:42:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-05-29T09:47:00) -->
