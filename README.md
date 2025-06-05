@@ -4554,3 +4554,5 @@
 <!-- special-github-resume-updated: contact info (2025-06-04T20:54:00) -->
 
 <!-- special-github-resume-updated: bio details (2025-06-04T15:06:00) -->
+
+<!-- special-github-resume-updated: project showcase (2025-06-05T13:25:00) -->
