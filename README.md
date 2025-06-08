@@ -4562,3 +4562,5 @@
 <!-- special-github-resume-updated: social links (2025-06-06T18:27:00) -->
 
 <!-- special-github-resume-updated: social links (2025-06-06T16:18:00) -->
+
+<!-- special-github-resume-updated: bio details (2025-06-08T18:37:00) -->
