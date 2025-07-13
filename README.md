@@ -4670,3 +4670,5 @@
 <!-- special-github-resume-updated: contact info (2025-07-11T10:33:00) -->
 
 <!-- special-github-resume-updated: project showcase (2025-07-13T19:09:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-07-13T16:56:00) -->
