@@ -4700,3 +4700,5 @@
 <!-- special-github-resume-updated: project showcase (2025-07-19T15:37:00) -->
 
 <!-- special-github-resume-updated: contact info (2025-07-20T19:46:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-07-20T11:01:00) -->
