@@ -4702,3 +4702,5 @@
 <!-- special-github-resume-updated: contact info (2025-07-20T19:46:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-07-20T11:01:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-07-21T09:18:00) -->
