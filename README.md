@@ -4722,3 +4722,5 @@
 <!-- special-github-resume-updated: layout styling (2025-07-26T12:26:00) -->
 
 <!-- special-github-resume-updated: contact info (2025-07-28T09:23:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-07-28T13:46:00) -->
