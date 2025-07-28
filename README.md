@@ -4720,3 +4720,5 @@
 <!-- special-github-resume-updated: layout styling (2025-07-26T19:15:00) -->
 
 <!-- special-github-resume-updated: layout styling (2025-07-26T12:26:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-07-28T09:23:00) -->
