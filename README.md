@@ -4766,3 +4766,5 @@
 <!-- special-github-resume-updated: certificates section (2025-08-09T17:07:00) -->
 
 <!-- special-github-resume-updated: project showcase (2025-08-09T16:18:00) -->
+
+<!-- special-github-resume-updated: social links (2025-08-10T16:24:00) -->
