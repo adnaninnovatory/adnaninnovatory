@@ -4782,3 +4782,5 @@
 <!-- special-github-resume-updated: contact info (2025-08-13T12:43:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-08-13T11:31:00) -->
+
+<!-- special-github-resume-updated: technical skills (2025-08-14T17:57:00) -->
