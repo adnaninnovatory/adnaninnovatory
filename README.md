@@ -4792,3 +4792,5 @@
 <!-- special-github-resume-updated: certificates section (2025-08-17T15:22:00) -->
 
 <!-- special-github-resume-updated: technical skills (2025-08-17T12:17:00) -->
+
+<!-- special-github-resume-updated: social links (2025-08-18T13:27:00) -->
