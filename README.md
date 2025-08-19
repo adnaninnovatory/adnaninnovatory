@@ -4796,3 +4796,5 @@
 <!-- special-github-resume-updated: social links (2025-08-18T13:27:00) -->
 
 <!-- special-github-resume-updated: social links (2025-08-18T19:31:00) -->
+
+<!-- special-github-resume-updated: layout styling (2025-08-19T13:19:00) -->
