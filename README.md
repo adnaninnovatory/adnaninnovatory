@@ -4830,3 +4830,5 @@
 <!-- special-github-resume-updated: contact info (2025-08-30T11:44:00) -->
 
 <!-- special-github-resume-updated: bio details (2025-08-30T17:31:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-08-30T20:58:00) -->
