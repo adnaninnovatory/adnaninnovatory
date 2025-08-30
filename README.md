@@ -4826,3 +4826,5 @@
 <!-- special-github-resume-updated: bio details (2025-08-28T09:42:00) -->
 
 <!-- special-github-resume-updated: social links (2025-08-29T18:27:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-08-30T11:44:00) -->
