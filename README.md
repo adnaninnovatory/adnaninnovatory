@@ -4832,3 +4832,5 @@
 <!-- special-github-resume-updated: bio details (2025-08-30T17:31:00) -->
 
 <!-- special-github-resume-updated: certificates section (2025-08-30T20:58:00) -->
+
+<!-- special-github-resume-updated: bio details (2025-09-01T13:37:00) -->
