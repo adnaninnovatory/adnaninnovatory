@@ -4842,3 +4842,5 @@
 <!-- special-github-resume-updated: project showcase (2025-09-02T12:16:00) -->
 
 <!-- special-github-resume-updated: social links (2025-09-03T16:41:00) -->
+
+<!-- special-github-resume-updated: bio details (2025-09-04T14:20:00) -->
