@@ -4904,3 +4904,5 @@
 <!-- special-github-resume-updated: social links (2025-09-22T17:50:00) -->
 
 <!-- special-github-resume-updated: contact info (2025-09-22T09:19:00) -->
+
+<!-- special-github-resume-updated: contact info (2025-09-23T17:14:00) -->
