@@ -4908,3 +4908,5 @@
 <!-- special-github-resume-updated: contact info (2025-09-23T17:14:00) -->
 
 <!-- special-github-resume-updated: social links (2025-09-23T16:14:00) -->
+
+<!-- special-github-resume-updated: certificates section (2025-09-24T14:55:00) -->
