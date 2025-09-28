@@ -4920,3 +4920,5 @@
 <!-- special-github-resume-updated: technical skills (2025-09-26T12:23:00) -->
 
 <!-- special-github-resume-updated: contact info (2025-09-27T18:38:00) -->
+
+<!-- special-github-resume-updated: project showcase (2025-09-28T09:56:00) -->
