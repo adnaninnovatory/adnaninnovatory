@@ -4942,3 +4942,5 @@
 <!-- special-github-resume-updated: project showcase (2026-05-28T19:44:00) -->
 
 <!-- special-github-resume-updated: layout styling (2026-05-30T20:21:00) -->
+
+<!-- special-github-resume-updated: social links (2026-05-30T17:24:00) -->
