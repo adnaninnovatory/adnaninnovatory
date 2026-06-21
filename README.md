@@ -5002,3 +5002,5 @@
 <!-- special-github-resume-updated: social links (2026-06-20T19:28:00) -->
 
 <!-- special-github-resume-updated: project showcase (2026-06-20T18:00:00) -->
+
+<!-- special-github-resume-updated: project showcase (2026-06-21T18:58:00) -->
