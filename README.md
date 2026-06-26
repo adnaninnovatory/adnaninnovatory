@@ -5020,3 +5020,5 @@
 <!-- special-github-resume-updated: layout styling (2026-06-25T19:00:00) -->
 
 <!-- special-github-resume-updated: layout styling (2026-06-26T16:51:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-06-26T20:37:00) -->
