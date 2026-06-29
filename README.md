@@ -5024,3 +5024,5 @@
 <!-- special-github-resume-updated: contact info (2026-06-26T20:37:00) -->
 
 <!-- special-github-resume-updated: certificates section (2026-06-27T20:36:00) -->
+
+<!-- special-github-resume-updated: layout styling (2026-06-29T14:55:00) -->
