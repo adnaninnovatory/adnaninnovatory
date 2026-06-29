@@ -5026,3 +5026,5 @@
 <!-- special-github-resume-updated: certificates section (2026-06-27T20:36:00) -->
 
 <!-- special-github-resume-updated: layout styling (2026-06-29T14:55:00) -->
+
+<!-- special-github-resume-updated: social links (2026-06-29T15:47:00) -->
