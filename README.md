@@ -5028,3 +5028,5 @@
 <!-- special-github-resume-updated: layout styling (2026-06-29T14:55:00) -->
 
 <!-- special-github-resume-updated: social links (2026-06-29T15:47:00) -->
+
+<!-- special-github-resume-updated: social links (2026-06-30T10:35:00) -->
