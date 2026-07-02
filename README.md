@@ -5038,3 +5038,5 @@
 <!-- special-github-resume-updated: certificates section (2026-07-01T12:46:00) -->
 
 <!-- special-github-resume-updated: bio details (2026-07-01T11:20:00) -->
+
+<!-- special-github-resume-updated: layout styling (2026-07-02T13:57:00) -->
