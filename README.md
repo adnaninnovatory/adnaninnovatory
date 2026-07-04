@@ -5044,3 +5044,5 @@
 <!-- special-github-resume-updated: technical skills (2026-07-02T14:51:00) -->
 
 <!-- special-github-resume-updated: contact info (2026-07-04T14:39:00) -->
+
+<!-- special-github-resume-updated: certificates section (2026-07-04T19:50:00) -->
