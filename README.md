@@ -5048,3 +5048,5 @@
 <!-- special-github-resume-updated: certificates section (2026-07-04T19:50:00) -->
 
 <!-- special-github-resume-updated: technical skills (2026-07-05T11:26:00) -->
+
+<!-- special-github-resume-updated: bio details (2026-07-05T11:36:00) -->
