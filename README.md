@@ -5052,3 +5052,5 @@
 <!-- special-github-resume-updated: bio details (2026-07-05T11:36:00) -->
 
 <!-- special-github-resume-updated: layout styling (2026-07-06T09:00:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-07-06T13:15:00) -->
