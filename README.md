@@ -5072,3 +5072,5 @@
 <!-- special-github-resume-updated: certificates section (2026-07-14T12:01:00) -->
 
 <!-- special-github-resume-updated: bio details (2026-07-14T20:27:00) -->
+
+<!-- special-github-resume-updated: project showcase (2026-07-14T17:32:00) -->
