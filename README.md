@@ -5078,3 +5078,5 @@
 <!-- special-github-resume-updated: certificates section (2026-07-15T10:28:00) -->
 
 <!-- special-github-resume-updated: social links (2026-07-15T14:31:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-07-15T13:12:00) -->
