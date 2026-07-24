@@ -5102,3 +5102,5 @@
 <!-- special-github-resume-updated: social links (2026-07-21T17:06:00) -->
 
 <!-- special-github-resume-updated: project showcase (2026-07-22T14:29:00) -->
+
+<!-- special-github-resume-updated: bio details (2026-07-24T15:55:00) -->
