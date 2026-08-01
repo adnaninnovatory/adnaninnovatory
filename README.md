@@ -5128,3 +5128,5 @@
 <!-- special-github-resume-updated: bio details (2026-08-01T16:03:00) -->
 
 <!-- special-github-resume-updated: bio details (2026-08-01T12:35:00) -->
+
+<!-- special-github-resume-updated: project showcase (2026-08-01T09:08:00) -->
