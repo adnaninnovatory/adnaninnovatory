@@ -5134,3 +5134,5 @@
 <!-- special-github-resume-updated: technical skills (2026-08-03T20:25:00) -->
 
 <!-- special-github-resume-updated: technical skills (2026-08-03T20:23:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-08-03T17:19:00) -->
