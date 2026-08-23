@@ -5192,3 +5192,5 @@
 <!-- special-github-resume-updated: layout styling (2026-08-21T16:08:00) -->
 
 <!-- special-github-resume-updated: project showcase (2026-08-21T15:36:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-08-23T16:25:00) -->
