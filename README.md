@@ -5222,3 +5222,5 @@
 <!-- special-github-resume-updated: social links (2026-08-30T18:12:00) -->
 
 <!-- special-github-resume-updated: technical skills (2026-08-31T12:03:00) -->
+
+<!-- special-github-resume-updated: technical skills (2026-08-31T10:38:00) -->
