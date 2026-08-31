@@ -5220,3 +5220,5 @@
 <!-- special-github-resume-updated: contact info (2026-08-30T10:34:00) -->
 
 <!-- special-github-resume-updated: social links (2026-08-30T18:12:00) -->
+
+<!-- special-github-resume-updated: technical skills (2026-08-31T12:03:00) -->
