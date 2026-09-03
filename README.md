@@ -5226,3 +5226,5 @@
 <!-- special-github-resume-updated: technical skills (2026-08-31T10:38:00) -->
 
 <!-- special-github-resume-updated: contact info (2026-09-02T10:07:00) -->
+
+<!-- special-github-resume-updated: bio details (2026-09-03T10:53:00) -->
