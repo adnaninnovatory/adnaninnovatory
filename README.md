@@ -5232,3 +5232,5 @@
 <!-- special-github-resume-updated: layout styling (2026-09-03T16:37:00) -->
 
 <!-- special-github-resume-updated: contact info (2026-09-04T10:02:00) -->
+
+<!-- special-github-resume-updated: certificates section (2026-09-04T09:05:00) -->
