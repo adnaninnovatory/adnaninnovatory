@@ -5262,3 +5262,5 @@
 <!-- special-github-resume-updated: social links (2026-09-13T17:16:00) -->
 
 <!-- special-github-resume-updated: layout styling (2026-09-13T09:42:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-09-13T09:42:00) -->
