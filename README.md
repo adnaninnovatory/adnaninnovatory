@@ -5270,3 +5270,5 @@
 <!-- special-github-resume-updated: social links (2026-09-15T09:05:00) -->
 
 <!-- special-github-resume-updated: contact info (2026-09-15T19:36:00) -->
+
+<!-- special-github-resume-updated: contact info (2026-09-15T12:46:00) -->
