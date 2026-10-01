@@ -119,7 +119,7 @@ AI-powered Smart IT Department Assistant built with React Native, Node.js, FastA
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🌐 AI Assistant</h3>
+<h3 align="center">🌐 AI Study Assistant</h3>
 <p align="center">
 AI-powered Assistant built with React Native, Node.js, FastAPI, and MongoDB for intelligent question answering.
 </p>
