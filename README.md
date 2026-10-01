@@ -63,11 +63,11 @@ I also participate in hackathons to sharpen my skills, push beyond my comfort zo
 <td><strong>Free Coursera</strong> — HEC awarded a two-time free 6-month Coursera license for academic excellence</tr>
 <tr>
 <td>🚀</td>
-<td><strong>5th Place</strong> — Programming Competition · FAST NUCES, Pakistan.</td>
+<td><strong>5th Place</strong> — Programming Competition SOFTEC25 · FAST NUCES, Pakistan.</td>
 </tr>
 <tr>
 <td>👨‍🏫</td>
-<td><strong>Winner — Code CRUD Competition · Government College University Faisalabad.</td>
+<td><strong>Winner — Code CRUD Competition 2024 · Government College University Faisalabad.</td>
 </tr>
 </table>
 
