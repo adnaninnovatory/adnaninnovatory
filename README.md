@@ -20,7 +20,6 @@
   </a>
 </p>
 
-
 ---
 
 <img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="280" alt="coding gif" />
@@ -137,7 +136,6 @@ AI-powered Assistant built with React Native, Node.js, FastAPI, and MongoDB for 
 ---
 
 ## 🛠️ Technical Skills
-
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,reactnative,python,html,css,tailwind,mysql,mongodb,docker,terraform,aws,azure,gcp,git,github,linux&theme=dark" />
