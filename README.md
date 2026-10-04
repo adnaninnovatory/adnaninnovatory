@@ -4,7 +4,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1b1464,60:2980b9,100:6dd5fa&height=260&section=header&text=Adnan%Nazir&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20ML%20Engineer%20%&descAlignY=56&descSize=19&descColor=d0eaff%20iss%20tra%20k%20mojy%20be%20bna%20k%20do)
 </div>
 
-
 <p align="center">
   <a href="https://adnaninnovatory.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black"/>
