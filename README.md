@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1b1464,60:2980b9,100:6dd5fa&height=260&section=header&text=Adnan%Nazir&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20ML%20Engineer%20%&descAlignY=56&descSize=19&descColor=d0eaff%20iss%20tra%20k%20mojy%20be%20bna%20k%20do)
@@ -159,7 +158,5 @@ AI-powered Assistant built with React Native, Node.js, FastAPI, and MongoDB for 
 ---
 
 <div align="center">
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,40:2980b9,70:1b1464,100:0d0221&height=150&section=footer)
-
 </div>
