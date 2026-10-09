@@ -149,12 +149,12 @@ AI-powered Assistant built with React Native, Node.js, FastAPI, and MongoDB for 
 
 ---
 
-/* ## 📊 GitHub Analytics
+ ## 📊 GitHub Analytics
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnaninnovatory&theme=tokyonight" alt="Adnan's GitHub Streak" width="48%" />
 </p>
-*/
+
 ---
 
 <div align="center">
